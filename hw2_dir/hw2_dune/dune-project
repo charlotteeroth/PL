@@ -1,0 +1,10 @@
+(lang dune 3.14)
+
+(name hw2)
+
+(generate_opam_files true)
+
+(package
+ (name hw2)
+ (depends ocaml dune))
+
